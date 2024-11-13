@@ -30,7 +30,7 @@
 					"RegenProject",
 					"Win64",
 					"Debug",
-					"E:\\ue_project\\RegenProject\\RegenProject\\RegenProject.uproject",
+					"E:\\ue_project\\RegenProject\\_Dev\\RegenProject\\RegenProject.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -47,7 +47,7 @@
 					"RegenProject",
 					"Win64",
 					"Debug",
-					"E:\\ue_project\\RegenProject\\RegenProject\\RegenProject.uproject",
+					"E:\\ue_project\\RegenProject\\_Dev\\RegenProject\\RegenProject.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -67,7 +67,7 @@
 					"RegenProject",
 					"Win64",
 					"Debug",
-					"E:\\ue_project\\RegenProject\\RegenProject\\RegenProject.uproject",
+					"E:\\ue_project\\RegenProject\\_Dev\\RegenProject\\RegenProject.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -84,7 +84,7 @@
 					"RegenProject",
 					"Win64",
 					"DebugGame",
-					"E:\\ue_project\\RegenProject\\RegenProject\\RegenProject.uproject",
+					"E:\\ue_project\\RegenProject\\_Dev\\RegenProject\\RegenProject.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -101,7 +101,7 @@
 					"RegenProject",
 					"Win64",
 					"DebugGame",
-					"E:\\ue_project\\RegenProject\\RegenProject\\RegenProject.uproject",
+					"E:\\ue_project\\RegenProject\\_Dev\\RegenProject\\RegenProject.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -121,7 +121,7 @@
 					"RegenProject",
 					"Win64",
 					"DebugGame",
-					"E:\\ue_project\\RegenProject\\RegenProject\\RegenProject.uproject",
+					"E:\\ue_project\\RegenProject\\_Dev\\RegenProject\\RegenProject.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -138,7 +138,7 @@
 					"RegenProject",
 					"Win64",
 					"Development",
-					"E:\\ue_project\\RegenProject\\RegenProject\\RegenProject.uproject",
+					"E:\\ue_project\\RegenProject\\_Dev\\RegenProject\\RegenProject.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -155,7 +155,7 @@
 					"RegenProject",
 					"Win64",
 					"Development",
-					"E:\\ue_project\\RegenProject\\RegenProject\\RegenProject.uproject",
+					"E:\\ue_project\\RegenProject\\_Dev\\RegenProject\\RegenProject.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -175,7 +175,7 @@
 					"RegenProject",
 					"Win64",
 					"Development",
-					"E:\\ue_project\\RegenProject\\RegenProject\\RegenProject.uproject",
+					"E:\\ue_project\\RegenProject\\_Dev\\RegenProject\\RegenProject.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -192,7 +192,7 @@
 					"RegenProject",
 					"Win64",
 					"Test",
-					"E:\\ue_project\\RegenProject\\RegenProject\\RegenProject.uproject",
+					"E:\\ue_project\\RegenProject\\_Dev\\RegenProject\\RegenProject.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -209,7 +209,7 @@
 					"RegenProject",
 					"Win64",
 					"Test",
-					"E:\\ue_project\\RegenProject\\RegenProject\\RegenProject.uproject",
+					"E:\\ue_project\\RegenProject\\_Dev\\RegenProject\\RegenProject.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -229,7 +229,7 @@
 					"RegenProject",
 					"Win64",
 					"Test",
-					"E:\\ue_project\\RegenProject\\RegenProject\\RegenProject.uproject",
+					"E:\\ue_project\\RegenProject\\_Dev\\RegenProject\\RegenProject.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -246,7 +246,7 @@
 					"RegenProject",
 					"Win64",
 					"Shipping",
-					"E:\\ue_project\\RegenProject\\RegenProject\\RegenProject.uproject",
+					"E:\\ue_project\\RegenProject\\_Dev\\RegenProject\\RegenProject.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -263,7 +263,7 @@
 					"RegenProject",
 					"Win64",
 					"Shipping",
-					"E:\\ue_project\\RegenProject\\RegenProject\\RegenProject.uproject",
+					"E:\\ue_project\\RegenProject\\_Dev\\RegenProject\\RegenProject.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -283,7 +283,7 @@
 					"RegenProject",
 					"Win64",
 					"Shipping",
-					"E:\\ue_project\\RegenProject\\RegenProject\\RegenProject.uproject",
+					"E:\\ue_project\\RegenProject\\_Dev\\RegenProject\\RegenProject.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -300,7 +300,7 @@
 					"RegenProjectEditor",
 					"Win64",
 					"Debug",
-					"E:\\ue_project\\RegenProject\\RegenProject\\RegenProject.uproject",
+					"E:\\ue_project\\RegenProject\\_Dev\\RegenProject\\RegenProject.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -317,7 +317,7 @@
 					"RegenProjectEditor",
 					"Win64",
 					"Debug",
-					"E:\\ue_project\\RegenProject\\RegenProject\\RegenProject.uproject",
+					"E:\\ue_project\\RegenProject\\_Dev\\RegenProject\\RegenProject.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -337,7 +337,7 @@
 					"RegenProjectEditor",
 					"Win64",
 					"Debug",
-					"E:\\ue_project\\RegenProject\\RegenProject\\RegenProject.uproject",
+					"E:\\ue_project\\RegenProject\\_Dev\\RegenProject\\RegenProject.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -354,7 +354,7 @@
 					"RegenProjectEditor",
 					"Win64",
 					"DebugGame",
-					"E:\\ue_project\\RegenProject\\RegenProject\\RegenProject.uproject",
+					"E:\\ue_project\\RegenProject\\_Dev\\RegenProject\\RegenProject.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -371,7 +371,7 @@
 					"RegenProjectEditor",
 					"Win64",
 					"DebugGame",
-					"E:\\ue_project\\RegenProject\\RegenProject\\RegenProject.uproject",
+					"E:\\ue_project\\RegenProject\\_Dev\\RegenProject\\RegenProject.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -391,7 +391,7 @@
 					"RegenProjectEditor",
 					"Win64",
 					"DebugGame",
-					"E:\\ue_project\\RegenProject\\RegenProject\\RegenProject.uproject",
+					"E:\\ue_project\\RegenProject\\_Dev\\RegenProject\\RegenProject.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -408,7 +408,7 @@
 					"RegenProjectEditor",
 					"Win64",
 					"Development",
-					"E:\\ue_project\\RegenProject\\RegenProject\\RegenProject.uproject",
+					"E:\\ue_project\\RegenProject\\_Dev\\RegenProject\\RegenProject.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -425,7 +425,7 @@
 					"RegenProjectEditor",
 					"Win64",
 					"Development",
-					"E:\\ue_project\\RegenProject\\RegenProject\\RegenProject.uproject",
+					"E:\\ue_project\\RegenProject\\_Dev\\RegenProject\\RegenProject.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -445,7 +445,7 @@
 					"RegenProjectEditor",
 					"Win64",
 					"Development",
-					"E:\\ue_project\\RegenProject\\RegenProject\\RegenProject.uproject",
+					"E:\\ue_project\\RegenProject\\_Dev\\RegenProject\\RegenProject.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -462,7 +462,7 @@
 			{
 				"name": "Launch RegenProject (Debug)",
 				"request": "launch",
-				"program": "E:\\ue_project\\RegenProject\\RegenProject\\Binaries\\Win64\\UnrealGame-Win64-Debug.exe",
+				"program": "E:\\ue_project\\RegenProject\\_Dev\\RegenProject\\Binaries\\Win64\\UnrealGame-Win64-Debug.exe",
 				"preLaunchTask": "RegenProject Win64 Debug Build",
 				"args": [
 				],
@@ -478,7 +478,7 @@
 			{
 				"name": "Launch RegenProject (DebugGame)",
 				"request": "launch",
-				"program": "E:\\ue_project\\RegenProject\\RegenProject\\Binaries\\Win64\\UnrealGame-Win64-DebugGame.exe",
+				"program": "E:\\ue_project\\RegenProject\\_Dev\\RegenProject\\Binaries\\Win64\\UnrealGame-Win64-DebugGame.exe",
 				"preLaunchTask": "RegenProject Win64 DebugGame Build",
 				"args": [
 				],
@@ -494,7 +494,7 @@
 			{
 				"name": "Launch RegenProject (Development)",
 				"request": "launch",
-				"program": "E:\\ue_project\\RegenProject\\RegenProject\\Binaries\\Win64\\UnrealGame.exe",
+				"program": "E:\\ue_project\\RegenProject\\_Dev\\RegenProject\\Binaries\\Win64\\UnrealGame.exe",
 				"preLaunchTask": "RegenProject Win64 Development Build",
 				"args": [
 				],
@@ -510,7 +510,7 @@
 			{
 				"name": "Launch RegenProject (Test)",
 				"request": "launch",
-				"program": "E:\\ue_project\\RegenProject\\RegenProject\\Binaries\\Win64\\UnrealGame-Win64-Test.exe",
+				"program": "E:\\ue_project\\RegenProject\\_Dev\\RegenProject\\Binaries\\Win64\\UnrealGame-Win64-Test.exe",
 				"preLaunchTask": "RegenProject Win64 Test Build",
 				"args": [
 				],
@@ -526,7 +526,7 @@
 			{
 				"name": "Launch RegenProject (Shipping)",
 				"request": "launch",
-				"program": "E:\\ue_project\\RegenProject\\RegenProject\\Binaries\\Win64\\UnrealGame-Win64-Shipping.exe",
+				"program": "E:\\ue_project\\RegenProject\\_Dev\\RegenProject\\Binaries\\Win64\\UnrealGame-Win64-Shipping.exe",
 				"preLaunchTask": "RegenProject Win64 Shipping Build",
 				"args": [
 				],
@@ -545,7 +545,7 @@
 				"program": "D:\\unreal_engine\\UE_5.4\\Engine\\Binaries\\Win64\\UnrealEditor-Win64-Debug.exe",
 				"preLaunchTask": "RegenProjectEditor Win64 Debug Build",
 				"args": [
-					"E:\\ue_project\\RegenProject\\RegenProject\\RegenProject.uproject"
+					"E:\\ue_project\\RegenProject\\_Dev\\RegenProject\\RegenProject.uproject"
 				],
 				"cwd": "D:\\unreal_engine\\UE_5.4",
 				"stopAtEntry": false,
@@ -562,7 +562,7 @@
 				"program": "D:\\unreal_engine\\UE_5.4\\Engine\\Binaries\\Win64\\UnrealEditor-Win64-DebugGame.exe",
 				"preLaunchTask": "RegenProjectEditor Win64 DebugGame Build",
 				"args": [
-					"E:\\ue_project\\RegenProject\\RegenProject\\RegenProject.uproject"
+					"E:\\ue_project\\RegenProject\\_Dev\\RegenProject\\RegenProject.uproject"
 				],
 				"cwd": "D:\\unreal_engine\\UE_5.4",
 				"stopAtEntry": false,
@@ -579,7 +579,7 @@
 				"program": "D:\\unreal_engine\\UE_5.4\\Engine\\Binaries\\Win64\\UnrealEditor.exe",
 				"preLaunchTask": "RegenProjectEditor Win64 Development Build",
 				"args": [
-					"E:\\ue_project\\RegenProject\\RegenProject\\RegenProject.uproject"
+					"E:\\ue_project\\RegenProject\\_Dev\\RegenProject\\RegenProject.uproject"
 				],
 				"cwd": "D:\\unreal_engine\\UE_5.4",
 				"stopAtEntry": false,
@@ -599,7 +599,7 @@
 				"args": [
 					"-projectfiles",
 					"-vscode",
-					"-project=E:\\ue_project\\RegenProject\\RegenProject\\RegenProject.uproject",
+					"-project=E:\\ue_project\\RegenProject\\_Dev\\RegenProject\\RegenProject.uproject",
 					"-game",
 					"-engine",
 					"-dotnet"
